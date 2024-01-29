@@ -7,7 +7,7 @@ import java.util.List;
 
 public class ReadFromFile {
     public static void main(String[] args) {
-        // Specify the path to the file
+       
         Path filePath = Paths.get("C:\\Users\\Simon\\Desktop\\newfile.txt");
 
         try {
