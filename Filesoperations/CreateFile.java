@@ -7,7 +7,7 @@ import java.nio.file.Paths;
 
 public class CreateFile {
     public static void main(String[] args) {
-        // Specifying the path to the new file
+       
         Path filePath = Paths.get("C:\\Users\\Simon\\Desktop\\newfile.txt");
 
         try {
