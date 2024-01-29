@@ -6,7 +6,7 @@ import java.nio.file.Paths;
 
 public class FileExits {
     public static void main(String[] args) {
-        // Specify the path to the file
+        
         Path filePath = Paths.get("C:\\Users\\Simon\\Desktop\\newfile.txt");
 
         // Check if the file exists
